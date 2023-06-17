@@ -1,0 +1,1918 @@
+/* ================================ X-small divice ================================= */
+
+@media (min-width:320px) and (max-width:575px) {
+
+    .navbar-toggler {
+        font-size: 1rem;
+    
+    }
+    .navbar-toggler {
+        padding: .25rem 0.50rem;
+      
+    }
+
+    .navbar img{
+        width: 120px;
+    }
+
+    nav ul .nav-item{
+
+        background-color: #A53DFF !important;
+        border-bottom: 1px solid black;
+     
+    }
+
+    nav ul li a{
+        color: white !important;
+        text-align: center;
+        font-size: 13px;
+    }
+
+    .primary_btn {
+
+        width: 100%;
+        text-align: center;
+       
+     
+    }
+    .primary_btn a{
+    font-size: 13px;
+    }
+
+    .mb-2 {
+        margin-bottom: 0 !important;
+    }
+
+    nav ul li:last-child {
+        margin-right: 0;
+    }
+
+    .container-item {
+        padding: 0;
+    }
+
+    .content {
+        padding-top: 54px; 
+    }
+
+    .content h1 {
+      margin-top: 40px;
+      width: 280px;
+      font-size: 30px !important;
+     text-align: center;
+
+    }
+
+    .content {
+       padding-top: 0px;
+     
+    }
+
+    .content p {
+        margin-top: 25px;
+        width: 300px;
+        text-align: center;
+        font-size: 12px;
+        font-weight: 500;
+    }
+
+    .costom_small_divise{
+        margin-left: 44%;
+        padding: 5px 19px 11px 20px !important;
+        margin-top: 15px;
+    }
+ 
+
+
+    .succes_part {
+        padding: 17px 0px;
+        text-align: center;
+        border-right: 0;
+        transition:ease .4s;
+        -webkit-transition:ease .4s;
+        -moz-transition:ease .4s;
+        -ms-transition:ease .4s;
+        -o-transition:ease .4s;
+        border-bottom: 1px solid #EDD8FF;
+        border-bottom: 2px solid white;
+    }
+
+    #succes {
+
+        width: 298px;
+        margin-top: 60px;
+
+    }
+
+  
+    .succes_part h4{
+     font-size: 24px;   
+    }
+    .succes_part h5{
+    font-size: 13px;
+    }
+
+    .bio_img img {
+
+        display: none;
+    }
+
+    .professtion-content {
+     
+        padding: 0;
+     
+    }
+
+    .my-img img {
+        width: 297px;
+     
+    } 
+
+    .icon-section {
+        padding: 8px;
+        left: 13%;
+ 
+    }
+
+    .icon-section i {
+	width: 44px;
+	height: 44px;
+	font-size: 22px;
+	line-height: 43px;
+
+}
+
+    .professtion-content-itme{
+        margin-top: 67px;
+        margin-bottom: 40px;
+    }
+
+    .professtion-content-itme h3 {
+        width: 289px;
+        margin-top: 72px;
+        font-size: 25px;
+        text-align: center;
+    }
+
+    .professtion-content-itme p {
+        width: auto;
+        color: #87909D;
+        text-align: center !important;
+        font-size: 12px;
+    }
+
+    .costom_primary_button{
+        font-size: 13px;
+        width:35%; 
+        padding: 12px 20px;
+        margin-left: 20px;
+    }
+    .costom_primary_button a{
+        font-size: 10px;
+
+    }
+    .costom_secondary_button{
+        font-size: 13px;
+        padding: 10px 12px 12px 23px ;
+        width: 50%;
+        margin-right: 20px;
+    }
+    .costom_secondary_button a{
+        font-size: 10px;
+       
+    }
+
+    #work-section {
+        margin-top: 80px;
+        margin-bottom: 70px;
+    }
+
+    .work-title h2 {
+        font-size: 30px;
+        text-align: center;
+      
+    }
+
+    .work-title p {   
+        width: auto;
+        text-align: center;
+        font-size: 13px;
+    }
+
+    .working-content:first-child{
+        margin-top: 30px;
+    }
+    .content-itam h4 {
+        font-size: 18px;
+    }
+
+    .content-itam p {
+        width: auto;
+        font-size: 12px;
+    }
+
+    .protfolio-text-part {     
+        padding-top: 72px;
+    }
+
+    .protfolio-text-part p {
+        width: auto;
+        font-size: 14px;
+    }
+
+    .prot-sec-text h4{
+       font-size: 17px;
+      
+    }
+
+    .protfolio-item p {
+        width: auto;
+        margin-top: 9px;
+        font-size: 12px;
+ 
+    }
+    .port-btn a{
+     font-size: 12px;
+    }
+
+    .port-btn{
+        padding: 12px 24px;
+    }
+
+    
+    .port-primary-btn {
+        margin-bottom: 68px;
+        margin-left: 0;
+        font-size: 12px;
+
+
+    }
+
+    #idea_section {
+        padding: 77px 0px 50px 0px;
+    }
+
+    .idea_section h2 {
+        width: 272px;
+        font-size: 24px
+    }
+
+    .costom_samall_section{
+        margin-top: 20px;
+        width: 70%;
+    }
+    .costom_samall_section a{
+        font-size: 12px;
+    }
+
+    #sarvies-section {
+        padding: 78px 0;
+    }
+
+    .sarvise-left-text h3{
+        text-align: center;
+        font-size: 40px;
+    }
+
+    .sarvise-left-text p{
+        width: auto;
+        text-align: center;
+        font-size: 12px;
+    }
+    
+    .sarvise_btn_small{
+       width: 52%; 
+       margin-left:22%;
+       margin-bottom: 30px;
+    }
+    .sarvise_btn_small a{
+      font-size: 12px;
+    }
+    .sarvise-content h3{
+        font-size: 19px ;
+    }
+    .sarvise-content p{
+        font-size: 10px ;
+    }
+
+    .sarvise-content {
+      padding: 24px;
+      border-bottom: 1.5px solid white;
+      border-left: none;
+      
+  
+    }
+    .sarvise-content:hover {    
+      border-bottom: 1.5px solid #A53DFF;
+      border-left: none;
+  
+    }
+
+    .client_text_part h2{
+        font-size: 32px;
+    }
+
+    .client_text_part p{
+        font-size: 11px;
+        width: auto;
+        text-align: center;
+        margin-top: 15px;
+    }
+
+    .company-section {
+        padding-top: 34px;
+
+    }
+    .company-section{
+       column-gap: 2px; 
+       padding-top: 30px;
+       margin-bottom:30px ;
+
+    }
+
+    .company-section img{
+        width: 58px;
+    }
+    .company-section a:last-child{
+        display: none;
+    }
+
+    #testmonial-section {
+        padding-bottom: 79px;
+    }
+
+    .testmonial-contant h2{
+        font-size: 34px;
+        
+    }
+    .testmonial-contant p{
+        font-size: 11px;
+        width: auto;
+        text-align: center;
+
+    }
+
+    .last-text {
+        padding-top: 36px;
+        padding-bottom: 24px;
+    }
+
+    .first-text{  
+      padding-top: 15px;
+       
+    }
+    .testmonial-contant h5{ 
+      font-size: 13px;  
+
+    }
+    .testmonial-contant h4 {
+        font-size: 22px;
+    } 
+
+    .slider-part {
+        margin-left: 44%;
+        margin-top: 46px;
+    }
+    
+    .slider-part a {
+        width: 9px;
+        height: 9px;
+    }
+    
+    .slider-part a:hover{
+        width: 38px;
+    }
+
+
+    .costom_input {
+       padding: 15px;
+
+    }
+    .costom_input h4{
+     font-size: 28px; 
+     text-align: center; 
+    }
+    .costom_input p{
+      font-size: 12px;
+      text-align: center;
+      width: auto;
+       margin-top: 10px;
+    }
+
+    .input_item {       
+        column-gap: 12px;
+        margin-bottom: 8px;
+        width: auto;
+        padding: 16px;
+
+    }
+
+    .input_item i {
+        width: 40px;
+        height: 40px;
+        font-size: 18px;
+        line-height: 40px;
+    }
+
+    .item-content h6{
+       font-size: 13px;
+       margin-bottom: 4px;
+    }
+    .item-content address{
+       font-size: 12px;
+    }
+
+    .item-content a{
+        font-size: 13px;
+     
+     }
+
+    .input_icon_section {
+        margin: 25px 0px;
+        column-gap: 2px;
+    } 
+    .user_input_section input, textarea {
+        width: 100%;
+        margin-bottom: 19px;
+        padding-bottom: 10px;
+    }
+
+    .user_input_section input::placeholder , textarea::placeholder {
+        font-size:13px ;     
+    }
+
+    .input_content input:first-child {
+        width: 34%;
+       
+    }
+
+    .user_input_section form button {
+        width: 125px;
+        margin-top: 37px;
+        margin-left: 25%;
+        font-size: 14px;
+    }
+    .footer_section{
+    
+        justify-content: center;
+    }
+    .footer_section img{
+      width: 70px;
+      margin-bottom:10px ;
+    }
+
+    .footer_section ul {
+        column-gap: 10px;
+        padding-left: 10px;
+    }
+    .footer_section ul li:last-child{
+        display: none;
+    
+    }
+    .footer_section ul li a {
+     font-size: 9px;
+    }
+
+  
+
+    .footer_section h6{
+        font-size: 7px;
+    }
+
+    footer{
+     padding-top: 86px;
+    }
+    
+    .footer_logo{
+        width: 30%;
+    }
+
+    .footer_about{
+      width: 68%;  
+    }
+
+    .sub-footer{
+      
+        margin-left: 62%;
+    }
+}
+
+
+    /* ================================== small ================================= */
+     @media (min-width:576px) and (max-width:767px) {
+
+        .navbar-toggler {
+            font-size: 1rem;
+        
+        }
+        .navbar-toggler {
+            padding: .25rem 0.50rem;
+          
+        }
+    
+        .navbar img{
+            width: 120px;
+        }
+    
+        nav ul .nav-item{
+    
+           
+            border-bottom: 1px solid black;
+            width: 100%;
+            padding: 3px;
+         
+        }
+    
+        nav ul li a{
+            color: rgb(0, 0, 0) !important;
+            text-align: center;
+            transition: ease .5s;
+            -webkit-transition: ease .5s;
+            -moz-transition: ease .5s;
+            -ms-transition: ease .5s;
+            -o-transition: ease .5s;
+}
+        nav ul li:hover a{
+            color: #A53DFF !important;
+            
+          
+        }
+        nav ul li:hover{
+            border-bottom:1px solid #A53DFF !important;
+            
+          
+        }
+    
+        .primary_btn{
+    
+            width: 100%;
+            text-align: center;
+         
+         
+        }
+
+     
+        .mb-2 {
+            margin-bottom: 0 !important;
+        }
+    
+        nav ul li:last-child {
+            margin-right: 0;
+        }
+
+        .container-item {
+            padding: 38px 0px 102px 0px;
+        }
+
+        .content h1 {
+      
+            width: 500px;
+            font-size: 55px !important;
+            text-align: center;
+      
+          }
+      
+        .content {
+            padding-top: 0px;
+            
+        }
+      
+        .content p {
+            width: 520px;
+            text-align: center;
+            font-size: 14px;
+            margin-top: 25px;
+        }
+
+
+        .costom_small_divise{
+            width: 44%;
+            margin-left: 47%;
+            margin-top: 20px;
+    
+          }
+
+          #succes {
+            width: 525px;
+        }
+
+        .succes_part {
+            border-right: none;
+            border-bottom: 2px solid white;
+        }
+
+        .bio_img img {
+            display: none;
+        }
+
+        .professtion-content {
+            padding: 0 10px;
+
+        }
+
+        .my-img img{
+            margin-left: 36px;
+            border-radius: 8px;
+            -webkit-border-radius: 8px;
+            -moz-border-radius: 8px;
+            -ms-border-radius: 8px;
+            -o-border-radius: 8px;
+        
+        }
+
+        .icon-section {
+            padding: 8px;
+            left: 27%;
+     
+        }
+    
+        .professtion-content-itme{
+            margin-top: 67px;
+            margin-bottom: 40px;
+        }
+    
+        .professtion-content-itme h3{
+            width: 400px;
+            margin-top: 74px;
+            font-size: 24px;
+            text-align: center;
+            margin-left: 10%;
+        }
+    
+        .professtion-content-itme p {
+            width: auto;
+            color: #87909D;
+            text-align: center !important;
+            font-size: 14px;
+        }
+    
+        .costom_primary_button{
+            font-size: 13px;
+            width:35%; 
+            padding: 12px 20px;
+            margin-left: 20px;
+        }
+        .costom_primary_button a{
+            font-size: 13px;
+    
+        }
+        .costom_secondary_button{
+            font-size: 13px;
+            margin-right: 0;
+            width: 42%;
+            text-align: center;
+           
+        }
+        .costom_secondary_button a{
+            font-size: 13px;
+           
+        }
+
+        .button-section {
+            column-gap: 47px;
+            margin-left: 14px;
+        }
+
+        #work-section {
+            margin-top: 114px;
+            margin-bottom: 88px;
+        }
+
+        .work-title h2 {
+            font-size: 40px;
+            text-align: center;
+          
+        }
+    
+        .work-title p {   
+            width: auto;
+            text-align: center;
+            font-size: 14px;
+        }
+    
+        .working-content:first-child{
+            margin-top: 30px;
+        }
+        .content-itam h4 {
+            font-size: 18px;
+        }
+    
+        .content-itam p {
+            width: auto;
+            font-size: 14px;
+        }
+
+        .protfolio-text-part {     
+            padding-top: 72px;
+        }
+    
+        .protfolio-text-part p {
+            width: auto;
+            font-size: 14px;
+        }
+    
+        .prot-sec-text h4{
+           font-size: 20px;
+          
+        }
+    
+        .protfolio-item p {
+            width: auto;
+            margin-top: 9px;
+            font-size: 14px;
+     
+        }
+        .port-btn a{
+         font-size: 13px;
+        }
+    
+        .port-btn{
+            padding: 12px 32px;
+        }
+    
+        
+        .port-primary-btn {
+            width: 36%;
+            margin-bottom: 68px;
+            margin-left: 30%;
+            font-size: 14px;   
+        }
+
+
+    #idea_section {
+        padding: 67px 0px 50px 0px;
+    }
+
+    .idea_section h2 {
+        width: 339px;
+        font-size: 30px
+    }
+
+    .costom_samall_section{
+        margin-top: 20px;
+        width: 50%;
+    }
+    .costom_samall_section a{
+        font-size: 14px;
+    }
+
+    #sarvies-section {
+        padding: 78px 0;
+    }
+
+    .sarvise-left-text h3{
+        text-align: center;
+        font-size: 45px;
+    }
+
+    .sarvise-left-text p{
+        width: auto;
+        text-align: center;
+        font-size: 14px;
+    }
+    
+    .sarvise_btn_small{
+       width: 33%; 
+       margin-left:34%;
+       margin-bottom: 30px;
+    }
+    .sarvise_btn_small a{
+      font-size: 14px;
+    }
+    .sarvise-content h3{
+        font-size: 21px ;
+    }
+    .sarvise-content p{
+        font-size: 12px ;
+    }
+
+    .sarvise-content {
+      padding: 24px;
+      border-bottom: 2px solid white;
+      border-left: none;
+      
+  
+    }
+    .sarvise-content:hover {    
+      border-bottom: 2px solid #A53DFF;
+      border-left: none;
+  
+    }
+
+    .client_text_part h2{
+        font-size: 42px;
+    }
+
+    .client_text_part p{
+        font-size: 14px;
+        width: auto;
+        text-align: center;
+        margin-top: 15px;
+    }
+
+    .company-section {
+        padding-top: 34px;
+
+    }
+    .company-section{
+       column-gap: 10px; 
+       padding-top: 30px;
+       margin-bottom:30px ;
+
+    }
+
+    .company-section img{
+        width: 79px;
+    }
+    .company-section a:last-child{
+        display:block;
+    }
+
+    #testmonial-section {
+        padding-bottom: 79px;
+    }
+
+    .testmonial-contant h2{
+        font-size: 40px;
+        
+    }
+    .testmonial-contant p{
+        font-size: 13px;
+        width: auto;
+        text-align: center;
+
+    }
+
+    .last-text {
+        padding-top: 36px;
+        padding-bottom: 24px;
+    }
+
+    .first-text{  
+      padding-top: 15px;
+       
+    }
+    .testmonial-contant h5{ 
+      font-size: 13px;  
+
+    }
+
+    .slider-part {
+        margin-left: 47%;
+        margin-top: 46px;
+    }
+
+    .slider-part a {
+        width: 11px;
+        height: 11px;
+    }
+
+    .slider-part a:hover{
+        width: 38px;
+    } 
+
+    .costom_input {
+        padding: 20px;
+ 
+     }
+     .costom_input h4{
+      font-size: 35px; 
+      text-align: center; 
+     }
+     .costom_input p{
+       font-size: 14px;
+       text-align: center;
+       width: auto;
+       margin-top: 12px;
+     }
+ 
+     .input_item {       
+         column-gap: 12px;
+         margin-bottom: 8px;
+         width: auto;
+         padding: 30px;
+ 
+     }
+ 
+     .input_item i {
+         width: 43px;
+         height: 43px;
+         font-size: 20px;
+         line-height: 43px;
+     }
+ 
+     .item-content h6{
+        font-size: 14px;
+        margin-bottom: 5px;
+     }
+     .item-content address{
+        font-size: 14px;
+     }
+ 
+     .item-content a{
+         font-size: 15px;
+      
+      }
+ 
+     .input_icon_section {
+         margin: 25px 0px;
+         column-gap: 4px;
+     } 
+
+     .user_input_section input::placeholder , textarea::placeholder {
+         font-size:15px ;     
+     }
+ 
+     .input_content input:first-child {
+         width: 34%;
+        
+     }
+ 
+     .user_input_section form button {
+         width: 141px;
+         margin-top: 37px;
+         margin-left: 34%;
+         font-size: 14px;
+     }
+
+    .footer_section{
+        justify-content: start;
+    }
+    .footer_section img{
+      width: 80px;
+      margin-bottom:10px ;
+    }
+
+    .footer_section ul {
+        column-gap: 10px;
+        padding-left: 20px;
+    }
+    .footer_section ul li:last-child{
+        display: none;
+    
+    }
+    .footer_section ul li a {
+     font-size: 11px;
+    }
+
+  
+
+    .footer_section h6{
+        font-size: 10px;
+    }
+
+    footer{
+     padding-top: 86px;
+    }
+    
+    .footer_logo{
+        width: 15%;
+    }
+
+    .footer_about{
+      width: 58%;  
+    }
+
+    .sub-footer{
+      width: 27%;
+        margin-left: 0;
+    } 
+}
+
+/* =========================Medium divise=========================== */
+
+@media (min-width:768px) and (max-width:991px) {
+
+
+
+
+    nav ul .nav-item{
+
+       
+        border-bottom: 1px solid black;
+        width: 100%;
+        padding: 3px;
+     
+    }
+
+    nav ul li a{
+        color: rgb(0, 0, 0) !important;
+        text-align: center;
+        transition: ease .5s;
+        -webkit-transition: ease .5s;
+        -moz-transition: ease .5s;
+        -ms-transition: ease .5s;
+        -o-transition: ease .5s;
+}
+    nav ul li:hover a{
+        color: #A53DFF !important;
+        
+      
+    }
+    nav ul li:hover{
+        border-bottom:1px solid #A53DFF !important;
+        
+      
+    }
+
+    .primary_btn{
+
+        width: 100%;
+        text-align: center;
+     
+     
+    }
+
+ 
+    .mb-2 {
+        margin-bottom: 0 !important;
+    }
+    .costom_medium{
+        width: 48%;
+    }
+
+    .costom_medium_img{
+        width: 48%;
+    }
+
+
+    nav ul li:last-child {
+        margin-right: 0;
+    }
+
+    .container-item {
+        padding: 38px 0px 102px 0px;
+    }
+
+    .content h1 {
+  
+        width:369px;
+        font-size: 42px !important;
+        text-align: center;
+        margin-top: 30px;
+  
+      }
+  
+    .content {
+        padding-top: 0px;
+        
+    }
+  
+    .content p {
+        width: 372px;
+        text-align: center;
+        font-size: 14px;
+        margin-top: 25px;
+        margin-left: 15%;
+    }
+
+
+    .costom_small_divise{
+     
+        margin-left: 57%;
+        margin-top: 20px;
+    }
+
+    #succes {
+      
+        margin-top: 100px;
+        margin-left: 27px;        
+
+    }
+    
+
+    .succes_part {
+        border-right: none;
+        border-left: 2px solid white;
+      
+    }
+
+     .succes_part h4{
+        font-size: 22px;
+
+    }
+     .succes_part h5{
+        font-size: 15px;
+
+    }
+
+    .bio_img img {
+        width: 300px;
+        margin-left: 44px;
+    }
+
+    .professtion-content {
+        padding: 0 10px;
+
+    }
+
+    .my-img img{
+        width: 300px;
+        margin-left: 0px;
+     
+    }
+
+    .icon-section {
+        padding: 8px;
+        left: 21%;
+        bottom: -32px;
+ 
+    }
+
+    .icon-section i {
+        width: 40px;
+        height: 40px;
+        font-size: 20px;
+        line-height: 40px;
+       
+    }
+
+
+
+    .professtion-content-itme{
+        margin-top: 67px;
+        margin-bottom: 40px;
+    }
+
+    .professtion-content-itme h3{
+        width: auto;
+        margin-top: 74px;
+        font-size: 24px;
+        text-align: center;
+        margin-left: 8%;
+    }
+
+    .professtion-content-itme p {
+        width: 360px;
+        color: #87909D;
+        text-align: center !important;
+        font-size: 14px;
+        padding-left: 26px;
+    }
+
+    .costom_primary_button{
+        font-size: .5px;
+        width:auto; 
+        padding: 12px 20px;
+        margin-left: 20px;
+    }
+    .costom_primary_button a{
+        font-size: 11px;
+
+    }
+    .costom_secondary_button{
+        font-size: .5px;
+        margin-right: 0;
+        width: auto;
+        text-align: center;
+       
+       
+    }
+
+    .button-section {
+        column-gap: 25px;
+        margin-left:40px;
+    }
+    .costom_secondary_button a{
+        font-size: 11px;
+       
+    }
+
+    #work-section {
+        margin-top: 80px;
+        margin-bottom: 68px;
+    }
+
+    .work-title h2 {
+        font-size: 40px;
+        text-align: center;
+      
+    }
+
+    .work-title p {   
+        width: 520px;
+        text-align: center;
+        font-size: 15px;
+        margin-left: 79px;
+    }
+    /*========= medium divise =========*/
+    .col-md-6 {
+        flex: 1 0 auto;
+        width: 50%;
+    }
+    /*======== medium divise ============*/
+
+    .working-content:first-child{
+        margin-top: 30px;
+    }
+    .content-itam h4 {
+        font-size: 18px;
+    }
+
+    .content-itam p {      
+        font-size: 15px;
+    }
+
+    .protfolio-text-part {     
+        padding-top: 72px;
+    }
+
+    .protfolio-text-part p {
+        width: 500px;
+        font-size: 14px;
+    }
+
+    .prot-sec-text h4{
+       font-size: 20px;
+      
+    }
+
+    .protfolio-item p {
+        width: auto;
+        margin-top: 9px;
+        font-size: 14px;
+ 
+    }
+    .port-btn a{
+     font-size: 13px;
+    }
+
+    .port-btn{
+        padding: 12px 32px;
+    }
+
+    
+    .port-primary-btn {
+        width: 27%;
+        margin-bottom: 68px;
+        margin-left: 36%;
+        font-size: 14px;   
+    }
+
+
+#idea_section {
+    padding: 67px 0px 50px 0px;
+}
+
+.idea_section h2 {
+    width: 379px;
+    font-size: 35px
+}
+
+.costom_samall_section{
+    margin-top: 20px;
+    width: 35%;
+}
+
+
+#sarvies-section {
+    padding: 78px 0 50px 0;
+}
+
+.sarvise-left-text h3{
+    text-align: center;
+    font-size: 45px;
+}
+
+.sarvise-left-text p{
+    width: 599px;
+    text-align: center;
+    font-size: 15px;
+    padding-left: 103px;
+}
+
+
+
+.sarvise_btn_small{
+   width: 25%; 
+   margin-left:37%;
+   margin-bottom: 30px;
+}
+.sarvise_btn_small a{
+  font-size: 14px;
+}
+.sarvise-content h3{
+    font-size: 24px ;
+}
+.sarvise-content p{
+    font-size: 14px ;
+    width: 528px;
+}
+
+.sarvise-content {
+  padding: 30px;
+  border-left: 0 solid;
+}
+
+.sarvise-content:hover {    
+  border-bottom: 2px solid #A53DFF;
+  border-left: none;
+
+}
+
+.client_text_part h2{
+    font-size: 42px;
+}
+
+.client_text_part p {
+	font-size: 14px;
+	width: 451px;
+	margin-top: 30px;
+}
+.company-section {
+    padding-top: 34px;
+
+}
+.company-section{
+   column-gap: 10px; 
+   padding-top: 30px;
+   margin-bottom:30px ;
+
+}
+
+.company-section img{
+    width: 109px;
+}
+.company-section a:last-child{
+    display:block;
+}
+
+#testmonial-section {
+    padding-bottom: 79px;
+}
+
+.testmonial-contant h2{
+    font-size: 40px;
+    
+}
+.testmonial-contant p {
+	font-size: 14px;
+	width: 566px;
+	
+}
+
+.last-text {
+    padding-top: 36px;
+    padding-bottom: 24px;
+}
+
+.first-text{  
+  padding-top: 15px;
+   
+}
+.testmonial-contant h5{ 
+  font-size: 13px;  
+
+}
+
+.slider-part {
+    margin-left: 47%;
+    margin-top: 46px;
+}
+
+.slider-part a {
+    width: 11px;
+    height: 11px;
+}
+
+.slider-part a:hover{
+    width: 38px;
+} 
+
+.costom_input {
+    padding: 20px;
+
+ }
+ .costom_input h4{
+  font-size: 25px; 
+  text-align: center; 
+ }
+ .costom_input p{
+   font-size: 13px;
+   text-align: center;
+   width: auto;
+   margin-top: 12px;
+ }
+
+ .input_item {       
+     column-gap: 12px;
+     margin-bottom: 8px;
+     width: auto;
+     padding: 30px;
+
+ }
+
+ .input_item i {
+     width: 40px;
+     height: 40px;
+     font-size: 19px;
+     line-height: 40px;
+ }
+
+ .item-content h6{
+    font-size: 13px;
+    margin-bottom: 5px;
+ }
+ .item-content address{
+    font-size: 13px;
+ }
+
+ .item-content a{
+     font-size: 13px;
+  
+  }
+
+ .input_icon_section {
+     margin: 20px 0px;
+     column-gap: 3px;
+ } 
+
+ .user_input_section input::placeholder , textarea::placeholder {
+     font-size:13px ;     
+ }
+
+ .input_content input:first-child {
+     width: 34%;
+    
+ }
+
+ .user_input_section form button {
+     width: 141px;
+     margin-top: 37px;
+     margin-left: 30%;
+     font-size: 14px;
+ }
+
+.footer_section{
+    justify-content: start;
+}
+.footer_section img{
+  width: 80px;
+  margin-bottom:10px ;
+}
+
+.footer_section ul {
+    column-gap: 10px;
+    padding-left: 20px;
+}
+.footer_section ul li:last-child{
+    display: none;
+
+}
+.footer_section ul li a {
+ font-size: 11px;
+}
+
+
+
+.footer_section h6{
+    font-size: 10px;
+}
+
+footer{
+ padding-top: 86px;
+}
+
+.footer_logo{
+    width: 15%;
+}
+
+.footer_about{
+  width: 58%;  
+}
+
+.sub-footer{
+  width: 27%;
+    margin-left: 0;
+} 
+    
+}
+/*============================== large divise ============================== */
+
+@media (min-width:992px) and (max-width:1199px) {
+
+.navbar img{
+
+    width: 156ox;
+}
+nav ul {
+	column-gap: 10px;
+}
+nav ul li {
+	font-size: 15px;
+    padding: 10px;
+
+}
+
+.content {
+	padding-top: 57px;
+	padding-right: 0;
+}
+
+.container-item {
+	padding: 92px 0px 139px 0px;
+}
+
+.content h1 {
+	width: 445px;
+    font-size: 55px;
+}
+.content p {
+	width: 460px;
+    font-size: 14px;
+    margin-top: 10px;
+}
+.costom_small_divise{
+    margin-top: 35px;
+}
+
+#succes {
+	width: auto;
+	margin-top: 100px;
+
+}
+
+.succes_part {
+	padding: 12px 0px;
+}
+
+.succes_part h4 {
+	font-size: 24px;
+}
+
+.succes_part h5 {
+	font-size: 13px;
+}
+
+.bio_img img {
+	width: 458px;
+	margin-left: 35px;
+}
+
+.professtion-content {
+	background-color: white;
+	padding: 31px 35px 80px 35px;
+	border-radius: 12px;
+}
+
+.my-img img {
+ border-radius: 7px;
+ width: 368px;
+ -webkit-border-radius: 7px;
+ -moz-border-radius: 7px;
+ -ms-border-radius: 7px;
+ -o-border-radius: 7px;
+}
+
+.professtion-content-itme h3 {
+	width: 412px;
+	font-size: 26px;
+}
+
+.professtion-content-itme p {
+	width: 436px;
+	font-size: 16px;
+}
+
+
+.costom_primary_button a{
+    font-size: 15px;
+
+}
+.costom_secondary_button a{
+    font-size: 15px;
+   
+}
+
+.button-section {
+	margin-top: 47px;
+}
+
+
+
+#work-section {
+	margin-top: 117px;
+	margin-bottom: 106px;
+}
+
+.work-title h2 {
+	font-size: 44px;
+}
+
+.work-title p {   
+    width: auto;
+    font-size: 15px;
+}
+
+.content-itam {
+	padding: 17px;
+	margin-bottom: 21px;
+}
+.content-itam a {
+	padding: 12px 16px;
+	border-radius: 4px;
+
+}
+
+.content-itam i {
+	font-size: 16px;
+}
+
+.content-itam h4 {
+	width: auto;
+	margin-top: 30px;
+	font-size: 14px;
+}
+
+.content-itam p {
+	color: #556070;
+	width: auto;
+
+	font-size: 12px;
+}
+.protfolio-text-part p {
+	font-size: 16px;
+}
+
+.prot-sec-text {
+    padding: 22px;
+}
+
+.prot-sec-text h6{
+font-size: 11px;
+}
+
+.prot-sec-text h4{
+font-size: 19px;
+}
+
+.protfolio-item p {
+	width: auto;
+	font-size: 14px;
+}
+
+.secondary-btn {
+	padding: 12px 24px;
+}
+
+.secondary-btn a {
+	font-size: 13px;
+}
+
+.port-primary-btn {
+	margin-left: 40%;
+	width: 21%;
+	text-align: center;
+}
+
+.sarvise-left-text h3 {
+	width: auto;
+    text-align: center;
+
+}
+.sarvise-left-text p {
+	width: auto;
+	font-size: 16px;
+    text-align: center;
+}
+
+.sarvise_btn_small{
+    width: 42%; 
+    margin-left:25%;
+    margin-bottom: 30px;
+    text-align: center;
+ }
+
+ .sarvise-content {
+	border-radius: 8px;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 8px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	padding: 24px 16px 24px 16px;
+
+}
+.sarvise-content h3{
+    font-size: 18px ;
+}
+
+.sarvise-content p{
+    font-size: 13px;
+}
+
+#sarvies-section {
+	padding: 100px 0;
+}
+
+.client_text_part p {
+	font-size: 16px;
+	margin-top: 39px;
+}
+
+.company-section img {
+	width: 172px;
+
+}
+
+.company-section {
+	margin-bottom: 40px;
+
+}
+
+.first-text {
+
+	font-size: 16px;
+}
+
+.last-text {
+font-size: 15px;
+}
+
+.testmonial-contant h4 {
+	font-size: 22px;
+}
+.testmonial-contant h5{
+	font-size: 15px;
+}
+
+.slider-part {
+    margin-left: 47%;
+    margin-top: 46px;
+}
+
+.slider-part a {
+    width: 15px;
+    height: 15px;
+}
+
+.slider-part a:hover{
+    width: 45px;
+}
+
+.costom_input {
+	padding: 61px;
+
+}
+
+.costom_input h4{
+    font-size: 32px; 
+     
+   }
+   .costom_input p{
+     font-size: 14px;
+      width: auto;
+      margin-top: 10px;
+   }
+
+   .input_item {       
+       column-gap: 8px;
+       margin-bottom: 8px;
+       width: auto;
+
+
+   }
+
+   .input_item i {
+       width: 45px;
+       height: 45px;
+       font-size: 20px;
+       line-height: 45px;
+   }
+
+   .item-content h6{
+      font-size: 14px;
+      margin-bottom: 4px;
+   }
+   .item-content address{
+      font-size: 14px;
+   }
+
+   .item-content a{
+       font-size: 14px;
+    
+    }
+
+   .input_icon_section {
+       margin: 25px 0px;
+       column-gap: 10px;
+   } 
+
+   .user_input_section form{
+    margin-top: 90px;
+   }
+   .user_input_section input, textarea {
+       width: 100%;
+       margin-bottom: 19px;
+       padding-bottom: 10px;
+   }
+
+   .user_input_section input::placeholder , textarea::placeholder {
+       font-size:14px ;     
+   }
+
+   .input_content input:first-child {
+       width: 34%;
+      
+   }
+
+   .user_input_section form button {
+       width: 125px;
+       margin-top: 37px;
+       margin-left: 25%;
+       font-size: 14px;
+   }
+
+
+.footer_section img{
+  width: 120px;
+  margin-bottom:10px ;
+}
+
+.footer_section ul {
+    column-gap: 30px;
+    padding-left: 10px;
+}
+
+.footer_section ul li a {
+ font-size: 13px;
+}
+
+
+
+.footer_section h6{
+    font-size: 11px;
+}
+
+footer{
+ padding-top: 86px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+   
+   
+   
+   
+   
+    
+    
+
+
+
+  
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+ 

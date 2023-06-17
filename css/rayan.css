@@ -1,0 +1,873 @@
+/* ================================================== common css start =================================================== */
+.font_work{
+    font-family: 'Work Sans', sans-serif;  
+}
+
+.font_pop{
+    font-family: 'Poppins', sans-serif;
+}
+
+.font_r{
+    font-weight: 400;
+}
+.font_m{
+    font-weight: 500;
+}
+.font_sb{
+    font-weight: 600;
+}
+.font_light{
+    font-weight: 300;
+}
+.font-12{
+    font-size: 12px;
+}
+.font-16{
+    font-size: 16px;
+}
+.font-18{
+    font-size: 18px;
+}
+.font-20{
+    font-size: 20px;
+}
+.font-24{
+    font-size: 24px;
+}
+.font-32{
+    font-size: 32px;
+}
+.font-38{
+    font-size: 38px;
+}
+.font-48{
+    font-size: 48px;
+}
+.font-72{
+    font-size: 72px;
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+    display: inline-block;
+}
+
+ul li{
+    list-style: none;
+}
+
+address{
+    margin-bottom: 0;
+}
+
+
+
+
+/* ================================================== common css end =================================================== */
+
+
+
+/* ==================================================  Navbar section start =================================================== */
+.primary_btn{
+    padding: 12px 24px;
+    background-color: #A53DFF;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    display: inline-block;
+}
+
+.primary_btn a{
+    color: #fff;
+
+}
+
+nav ul{
+column-gap: 24px;
+}
+nav ul li:last-child{
+    margin-right: 24px;
+}
+
+nav ul li{
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Work Sans', sans-serif;
+    color:#333333 ;  
+}
+
+/* ==================================================  Navbar section End =================================================== */
+
+
+
+/* ==================================================  Header section start =================================================== */
+.container-item{
+    padding: 126px 0px 191px 0px;
+
+
+}
+.content{
+    padding-top: 54px;
+    padding-right:135px ;
+}
+
+.content h1{
+    width: 576px;
+}
+.content p{
+    width:648px ;
+  
+}
+
+.bio_img img{
+    width: 536px;
+    margin-left: 135px;   
+}
+
+ 
+
+#succes{
+    background-color:#EDD8FF ;
+    width: 648px;
+    margin-top: 142px;
+    border-radius:6px ;
+    -webkit-border-radius:6px ;
+    -moz-border-radius:6px ;
+    -ms-border-radius:6px ;
+    -o-border-radius:6px ;
+}
+
+.succes_part{
+    padding: 17px 0px;
+    text-align: center;
+    border-right: 3px solid white;
+}
+
+.succes_part h4{
+    color:#424E60 ;
+}
+
+.succes_part h5{
+    color:#697484;
+}
+
+.sucess-last{
+ border-right:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ==================================================  Header section End =================================================== */
+
+
+/* ==================================================  professtion section start =================================================== */
+#professtion{
+    background-color: #ECEEF1;
+    border-bottom: 2px solid #999695;
+    box-shadow: 0px 4px 4px rgb(69, 47, 47);
+ 
+}
+
+.professtion-content{
+    background-color: white;
+    padding: 112px;
+    box-shadow: 0px 36px 105px rgba(43, 56, 76, 0.1);
+    border-radius: 16px;
+  
+    
+}
+
+.button-section{
+    display: flex;
+    column-gap:24px ;
+}
+
+.secondary-btn{
+    padding: 12px 34px;
+    border: 2px solid #A53DFF;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    display: inline-block;
+
+   
+
+}
+.secondary-btn a{
+    color: #A53DFF;
+    display: flex;
+   align-items: center;
+   display: inline-block;
+  
+   
+
+}
+
+.right_arrow{
+color: #A53DFF !important;
+margin-left: 5px;
+}
+
+.professtion-content-itme h3{
+    width: 495px ;
+    margin-bottom:32px ;
+
+}
+.professtion-content-itme p{
+    width: 536px ;
+    color:#87909D;
+}
+
+.professtion-content .row{
+    align-items: center;
+}
+
+.button-section{
+    margin-top: 32px;
+   
+}
+.download-icon {
+	margin-right: 10px;
+	 
+}
+
+.icon-section{
+   position: absolute; 
+   bottom: -41px;
+   background-color: white;
+   padding: 12px;
+   left: 16%;
+   box-shadow: 0px 12px 64px rgba(28, 25, 25, 0.12);
+   border-radius: 4px;
+}
+.my-img{
+    position: relative;
+}
+.my-img img{
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+
+}
+
+.icon-section i{
+    width: 50px;
+    height: 50px;
+    /*border: 1px solid black;
+    */font-size: 25px;
+    line-height: 50px;
+    text-align: center;
+    color: #A53DFF;
+    transition: ease .5s ;
+    -webkit-transition: ease .5s ;
+    -moz-transition: ease .5s ;
+    -ms-transition: ease .5s ;
+    -o-transition: ease .5s ;
+}
+
+.icon-section i:hover{
+    background-color: #A53DFF;
+    color: white;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
+
+
+
+
+
+/* ==================================================  professtion section End =================================================== */
+
+
+
+/* ==================================================  working section Start =================================================== */
+#work-section{
+    margin-top:215px ;
+    margin-bottom:140px ;
+}
+
+.costom-row{
+    align-items: center;
+}
+.work-title h2{
+    margin-bottom: 24px;
+}
+
+.work-title p{
+    color: #697484;
+    width: 529px;
+    margin-bottom: 16px;
+  
+}
+
+.content-itam{
+    background-color: rgba(255, 255, 255, 0.47);
+    padding: 32px;
+    /*height: 276px;
+    */margin-bottom: 28px;
+    border-radius: 12px;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    -ms-border-radius: 12px;
+    -o-border-radius: 12px;
+    box-shadow: 32px 32px 124px rgba(43, 56, 76, 0.1);
+    transition: all ease .5s;
+    -webkit-transition: all ease .5s;
+    -moz-transition: all ease .5s;
+    -ms-transition: all ease .5s;
+    -o-transition: all ease .5s;
+}
+
+.content-itam:hover{
+    background: white;
+
+}
+
+.content-itam  a{
+   background:#EDD8FF;
+   color: #A53DFF;
+   padding: 20px 24px;
+   border-radius:6px ;
+   -webkit-border-radius:6px ;
+   -moz-border-radius:6px ;
+   -ms-border-radius:6px ;
+   -o-border-radius:6px ;
+   transition: all ease .5s;
+   -webkit-transition: all ease .5s;
+   -moz-transition: all ease .5s;
+   -ms-transition: all ease .5s;
+   -o-transition: all ease .5s;
+}
+
+.content-itam h4{
+    width: 260px;
+    margin-top: 32px;
+}
+ 
+.content-itam p{
+color: #556070;
+width: 248px;
+margin-top: 12px;
+
+}
+
+.content-itam i{
+    font-size: 22px;
+}
+
+.content-itam:hover a{
+    background-color: #A53DFF;
+    color: white;
+}
+
+
+
+
+
+
+
+/* ==================================================  working section End =================================================== */
+
+
+
+/* ==================================================  portfolio section start =================================================== */
+#protfolio{
+    background-color: #ECEEF1;
+    /* border-bottom: 2px solid #F0F1F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); */
+
+}
+
+
+
+.protfolio-text-part{
+    text-align: center;
+    margin-bottom: 70px;
+    padding-top: 100px;
+
+}
+
+.protfolio-text-part p{
+width: 577px;
+color: #87909D;
+margin: auto;
+}
+.protfolio-text-part h2{
+
+    margin-bottom: 24px;
+}
+
+.protfolio-item{
+ background-color: white;
+ margin-bottom: 24px;
+ border-radius: 8px;
+ -webkit-border-radius: 8px;
+ -moz-border-radius: 8px;
+ -ms-border-radius: 8px;
+ -o-border-radius: 8px;
+}
+.prot-sec-text{
+    padding: 32px;
+}
+
+.protfolio-item img{ width: 100%; 
+    border-radius: 8px 8px 0 0;
+    -webkit-border-radius: 8px 8px 0 0;
+    -moz-border-radius: 8px 8px 0 0;
+    -ms-border-radius: 8px 8px 0 0; 
+    -o-border-radius: 8px 8px 0 0;
+}
+
+
+.protfolio-item p{
+    padding-top: 12px;
+    margin-bottom:20px ;
+    width: 361px;
+    color:  #556070;;
+
+}
+
+.port-primary-btn {
+    
+margin-top: 26px;
+margin-left: 45%;
+margin-bottom: 100px;
+
+
+}
+
+
+
+/* ==================================================  portfolio section End =================================================== */
+
+
+/* ==================================================  idea section Start =================================================== */
+
+#idea_section{
+    background-color:#132238 ;
+    padding: 100px;
+}
+
+
+.idea_section{
+    text-align: center;
+}
+
+.idea_section h2{
+    color: white;
+    padding-bottom: 32px;
+    width: 433px;
+    margin: auto;
+}
+
+/* ================================================== idea section End =================================================== */
+
+
+/* ================================================== sarvies section start =================================================== */
+#sarvies-section{
+    background-color: #ECEEF1;
+    padding: 150px 0 ;   
+}
+
+
+.sarvise-content{
+   background-color: white;
+   border-radius: 8px;
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   -ms-border-radius: 8px;
+   -o-border-radius: 8px;
+   padding: 32px;
+   margin-bottom: 24px;
+   transition:all ease .5s ;
+   -webkit-transition:all ease .5s ;
+   -moz-transition:all ease .5s ;
+   -ms-transition:all ease .5s ;
+   -o-transition:all ease .5s ;
+   border-left: 4px solid white;
+}
+
+.sarvise-content :last-child{
+    margin-bottom: 0;
+}
+.sarvise-left{
+  align-items: center;
+}
+
+.sarvise-left-text p{
+    width: 529px;
+    padding-top: 24px;
+ 
+}
+.sarvise-left-text :last-child{
+    padding-bottom: 50px;
+    padding-top: 0;
+}
+
+.sarvise-content:hover{
+    border-left: 4px solid #A53DFF;
+    box-shadow: 0px 32px 96px rgba(28, 25, 25, 0.16);
+ 
+
+}
+
+/* ================================================== sarvies section End =================================================== */
+
+
+/* ================================================== clients section start =================================================== */
+/* common css */
+.width-180{
+    width: 180px;
+   
+
+}
+
+.margin-bottom{
+    margin-bottom: 10px;
+}
+
+.width-220{
+    width: 220px !important;
+    margin-right: 10px;
+}
+/* common css */
+
+
+#client-section {
+    background-color: #ECEEF1;
+    
+       
+}
+.company-section img{
+    width: 196px;
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+}
+.company-section img:hover{
+    filter: grayscale(0);
+    -webkit-filter: grayscale(0);
+}
+
+.client_text_part{
+   text-align: center !important; 
+}
+.client_text_part p{
+    width: 577px;
+   color:  #87909D;
+   margin: auto;
+}
+
+.company-section{
+    display: flex;
+    column-gap: 24px;
+    padding-top: 24px;
+    margin-bottom: 100px;
+    align-items: center;
+}
+
+/* ================================================== clients section End =================================================== */
+
+/* ================================================== Testimonial section start =================================================== */
+#testmonial-section{
+    background-color: #ECEEF1;
+    padding-bottom: 100px;
+}
+.testmonial-contant h4{
+    padding-bottom: 8px;
+
+} 
+
+
+
+.testmonial-contant{
+    text-align: center;
+}
+
+
+.last-text{
+   padding-top: 70px;
+    padding-bottom: 24px;
+    width: 872px; 
+    margin: auto; 
+}
+.first-text{
+    width: 577px;
+    margin: auto;
+    color:  #87909D;
+    padding-top: 24px;
+
+}
+
+.slider-part {
+ 
+
+  margin-left: 47%;
+  margin-top: 50px;
+}
+
+
+.slider-part a{
+    width: 20px;
+    height: 20px;
+    background: #C3C7CE;
+    display: inline-block;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    transition: all ease .5s;
+    -webkit-transition: all ease .5s;
+    -moz-transition: all ease .5s;
+    -ms-transition: all ease .5s;
+    -o-transition: all ease .5s;
+    
+}
+
+.slider-part a:hover{
+    width: 50px;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+    background: #210C33;
+}
+
+/* ================================================== Testimonial section End =================================================== */
+
+
+/* ================================================== input section start =================================================== */
+
+#input-section{
+    background-color: #ECEEF1;  
+}
+
+.costom_input{
+    background-color: white;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    padding: 88px;
+    box-shadow: 0px 59px 124px rgba(0, 0, 0, 0.12);
+    position: relative;
+    margin-bottom: -50px;
+}
+
+.input_section p{
+  color: #87909D ;
+  width: 481px;
+
+}
+
+.input_item{
+    display: flex;
+    column-gap:13px ;
+    margin-bottom: 12px;
+    background: white;
+   width: 400px;
+    padding: 24px;
+    transition: all ease .5s;
+    -webkit-transition: all ease .5s;
+    -moz-transition: all ease .5s;
+    -ms-transition: all ease .5s;
+    -o-transition: all ease .5s;
+}
+
+.input_item i{
+       width: 50px;
+       height: 50px;
+       font-size: 24px;
+       line-height: 50px;
+       text-align: center;
+      
+       color: #A53DFF;
+       border-radius:4px ;
+       -webkit-border-radius:4px ;
+       -moz-border-radius:4px ;
+       -ms-border-radius:4px ;
+       -o-border-radius:4px ;
+       transition: all ease .5s;
+       -webkit-transition: all ease .5s;
+       -moz-transition: all ease .5s;
+       -ms-transition: all ease .5s;
+       -o-transition: all ease .5s;
+}
+
+.input_item:hover{
+    box-shadow: 0px 12px 64px rgba(28, 25, 25, 0.12);
+}
+
+.input_item:hover i{
+    background-color: #A53DFF !important;
+    color: white !important;
+  
+}
+
+.item-content{
+    color: #000;
+}
+
+.input_icon_section{
+    display: flex;
+    column-gap: 12px;
+}
+
+
+.input_icon_section i{
+    width: 50px;
+    height: 50px;
+    font-size: 25px;
+    line-height: 50px;
+    text-align: center;
+    color: #A53DFF;
+    transition: ease .5s ;
+    -webkit-transition: ease .5s ;
+    -moz-transition: ease .5s ;
+    -ms-transition: ease .5s ;
+    -o-transition: ease .5s ;
+}
+
+.input_icon_section i:hover{
+    background-color: #A53DFF;
+    color: white;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+} 
+
+/* user input section */
+
+.user_input_mein p{
+color: #87909D;
+width: 560px;
+
+}
+
+.user_input_section input , textarea{
+    border: none;
+    outline: none;
+    border-bottom: 1.5px solid #E6E8EB ;
+    width: 100%;
+    margin-bottom: 24px;
+    padding-bottom: 14px;
+    
+}
+
+.user_input_section textarea{
+   resize: none;
+   margin-bottom: 0;
+   padding-bottom: 0;
+}
+
+.user_input_section input::placeholder , textarea::placeholder {
+font-size:18px ;
+color:#697484;
+
+ 
+}
+
+
+.input_content input:first-child{
+    width: 38%;
+    margin-right: 11px;
+    
+}
+.input_content input:last-child{
+    width: 59%;
+}
+
+.user_input_section input:focus , textarea:focus{
+border-bottom: 1.5px solid #A53DFF;
+}
+
+.user_input_section input:focus::placeholder , textarea:focus::placeholder{
+    color: #A53DFF;
+}
+.user_input_section form button{
+   color: white !important;
+   width:141px ;
+   margin-top: 50px;
+   border: none;
+   background-color: #A53DFF;
+   border-radius: 4px;
+   -webkit-border-radius: 4px;
+   -moz-border-radius: 4px;
+   -ms-border-radius: 4px;
+   -o-border-radius: 4px;
+   padding: 12px;
+}
+
+/* ================================================== input section End =================================================== */
+
+/* ================================================== footer section start =================================================== */
+
+footer{
+    background-color: #2B384C;
+    padding-top: 160px;
+}
+
+
+.footer_section{
+    padding-top: 36px;
+    align-items: center;
+ 
+}
+
+
+.footer_section ul{
+    display: flex;
+    column-gap: 24px;
+    justify-content: center;
+    margin-right: 30px;
+    align-items: center;
+
+}
+
+.footer_section ul li :hover{
+    color: #A53DFF;
+}
+
+.footer_section ul li a{
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Work Sans', sans-serif;
+    color: #F0F1F3;
+    transition:all ease .5s ;
+    -webkit-transition:all ease .5s ;
+    -moz-transition:all ease .5s ;
+    -ms-transition:all ease .5s ;
+    -o-transition:all ease .5s ;
+}
+
+.footer_section h6{
+    color: white;
+}
+
+
+/* ================================================== footer section End =================================================== */
+
